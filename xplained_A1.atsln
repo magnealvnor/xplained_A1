@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "xplained_A1", "xplained_A1\xplained_A1.cproj", "{00C0CA25-C264-48BA-AD93-57891EC23245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C0CA25-C264-48BA-AD93-57891EC23245}.Debug|AVR.ActiveCfg = Debug|AVR
+		{00C0CA25-C264-48BA-AD93-57891EC23245}.Debug|AVR.Build.0 = Debug|AVR
+		{00C0CA25-C264-48BA-AD93-57891EC23245}.Release|AVR.ActiveCfg = Release|AVR
+		{00C0CA25-C264-48BA-AD93-57891EC23245}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
